@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Joshi</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgquggac3pfv687qpc">
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjoshi1312&label=Profile%20views&color=0e75b6&style=flat" alt="harshjoshi1312" /> </p>
 
