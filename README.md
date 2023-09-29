@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="rigt" alt="hrzx" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjoshi1312&label=Profile%20views&color=0e75b6&style=flat" alt="harshjoshi1312" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshjoshi1312&label=Profile%20views&color=0e75b6&style=flat" alt="harshjoshi1312" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshjoshi1312" alt="harshjoshi1312" /></a> </p>
 
