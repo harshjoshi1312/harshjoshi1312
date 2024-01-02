@@ -3,8 +3,20 @@
 
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<img alt="Coder" align="center" width="500"
+<img alt="Coder" align="right" width="400"
      src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 I’m currently working on **android dev**
+
+- 🌱 I’m currently learning  **python,java,React js.**
+
+- 💬 Ask me about **MERN,SOLIDITY,MYSQL,REACT,FLUTTER**
+
+- 📫 How to reach me **joshiharsh1312@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/harshjoshi1312](https://github.com/harshjoshi1312)
+
+-  ⚡ Fun fact **i am sporty developer**
 
 
      
@@ -13,17 +25,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshjoshi1312" alt="harshjoshi1312" /></a> </p>
 
-- 🔭 I’m currently working on [xander](https://github.com/apoorva1823000/CureITWebsite.git)
-
-- 🌱 I’m currently learning **android development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/harshjoshi1312](https://github.com/harshjoshi1312)
-
-- 💬 Ask me about **js , node js, mongodb , ui/ux**
-
-- 📫 How to reach me **joshiharsh1312@gmail.com**
-
-- ⚡ Fun fact **i am sporty developer**
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/techtuberzz?igsh=MWo1aXdiNThuMTQxeA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-joshi-560512254/) 
