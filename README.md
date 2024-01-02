@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joshiharsh1312@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshjoshi1312](https://github.com/harshjoshi1312)
+- 👨‍💻 **open source enthusiast**
 
 -  ⚡ Fun fact **i am sporty developer**
 
