@@ -3,8 +3,11 @@
 
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<img alt="Coder" align="right" width="400"
+<img alt="Coder" align="center" width="500"
      src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+     
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshjoshi1312&label=Profile%20views&color=0e75b6&style=flat" alt="harshjoshi1312" /> </p>
 
