@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=996&center=true&random=false&width=435&lines=FULL+STACK+DEVELOPER" alt="Typing SVG" /></a></h2>
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=996&center=true&random=false&width=435&lines=SHOW ME+THE+CODE" alt="Typing SVG" /></a></h2>
 
 # 💫 About Me:
 ### GSSoC '24 Contributor | 5K+ Family @Linkedin  |  FULL Stack Web Developer | Web 3.0 | Graphic Designer
