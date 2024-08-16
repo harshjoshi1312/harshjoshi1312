@@ -1,12 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=996&center=true&random=false&width=435&lines=FULL+STACK+DEVELOPER" alt="Typing SVG" /></a></h2>
-<a href="https://harshjoshi1312.github.io/Portfoliowebsite/">
-  
-  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
-
-</a>
-
 
 # 💫 About Me:
 ### GSSoC '24 Contributor | 5K+ Family @Linkedin  |  FULL Stack Web Developer | Web 3.0 | Graphic Designer
@@ -251,9 +245,11 @@
       </a>
     </td>
     <td>
-      <a href="https://quine.sh?utm_source=widgets&utm_campaign=dpvasani">
-        <img src="https://stats.quine.sh/harshjoshi1312/dependencies?theme=dark" alt="harshjoshi1312's GitHub Dependencies" />
-      </a>
+      <a href="https://harshjoshi1312.github.io/Portfoliowebsite/">
+  
+  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+
+</a>
     </td>
   </tr>
 </table>
