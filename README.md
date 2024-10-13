@@ -185,29 +185,29 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 # 📊 GitHub Over Time:
 <table>
-<!--   <tr> -->
-<!--     <td>
+ <tr> 
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=harshjoshi1312&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
-    <td> -->
-<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjoshi1312&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    <td> 
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjoshi1312&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
-</table> -->
-<!-- <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br> -->
+</table> 
+ <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br> 
 
 
 
  # 🔝 Most Used Languages
 <table>
-<!--   <tr>
+  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjoshi1312&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </td>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshjoshi1312&theme=radical" alt="Profile Summary" />
     </td>
-  </tr> -->
+  </tr> 
 </table>
 
 <div align="center">
